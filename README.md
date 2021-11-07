@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://emilypier.github.io/horiseon-refactor/
 
 ## Contribution
 Made by Emily Pierson
