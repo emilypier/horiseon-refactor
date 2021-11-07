@@ -13,6 +13,7 @@ body {
     background-color: var(--tan);
 }
 
+/* Header style start */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,31 +21,31 @@ header {
     color: #ffffff;
 }
 
-    header h1 {
-        display: inline-block;
-        font-size: 48px;
-    }
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
 
-    header h1 span {
-        color: var(--tan);
-    }
+header h1 span {
+    color: var(--tan);
+}
 
-    header nav {
-        padding-top: 15px;
-        margin-right: 20px;
-        float: right; 
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        font-size: 20px;
-    }
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
 
-    header nav ul {
-        list-style-type: none;
-    }
+header nav ul {
+    list-style-type: none;
+}
 
-    header nav ul li {
-        display: inline-block;
-        margin-left: 25px;
-    }
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
 
 a {
     color: #ffffff;
@@ -74,6 +75,7 @@ p {
     margin-left: 25px;
 }
 
+/* benefits style start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -130,6 +132,7 @@ p {
     font-size: 36px;
 }
 
+/* footer style start */
 footer {
     padding: 30px;
     clear: both;
