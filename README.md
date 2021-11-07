@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Code Refactor
 
 ## Purpose
 Adding semantic HTML elements, logical structure to HTML elements, accessible alt attributes to images, sequential order for headings, descriptive title.
