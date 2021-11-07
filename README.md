@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
 
 ## Purpose
-A website that offers fitness training services. 
+Adding semantic HTML elements, logical structure to HTML elements, accessible alt attributes to images, sequential order for headings, descriptive title.
 
 ## Built With
 * HTML
